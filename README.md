@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NarThmpsn
 - 👀 I’m interested in learning python better, basketball and cybersecurity
-- 🌱 I’m currently learning python to work for google soon!
+- 🌱 I’m currently learning python to work for google soon, making a career pivot from video production!
 - 💞️ I’m looking to collaborate on security analyst, data analyst, programmers, and python pros
 - 📫 How to reach me email me at narthmpsn.sa@gmail.com
